@@ -1,4 +1,4 @@
-# Art-Portfolio-Website-
+# Art-Portfolio-Website
 Created an artist portfolio website for a customer using CSS and HTML.
 
 Here are screenshots of the website: 
